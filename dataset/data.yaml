@@ -1,0 +1,30 @@
+path: .
+train: images/train
+val: images/val
+
+names:
+  0: Enemy_Consecrated_Fanged_Beast
+  1: Enemy_Consecrated_Red_Vulture
+  2: Enemy_Consecrated_Scorpion
+  3: Enemy_Cryo_Abyss_Mage
+  4: Enemy_Cryogunner_Legionnaire
+  5: Enemy_Electro_Abyss_Mage
+  6: Enemy_Fatui_Anemoboxer_Vanguard
+  7: Enemy_Fatui_Cryo_Cicin_Mage
+  8: Enemy_Fatui_Electro_Cicin_Mage
+  9: Enemy_Fatui_Electrohammer_Vanguard
+  10: Enemy_Fatui_Geochanter_Bracer
+  11: Enemy_Fatui_Hydrogunner_Legionnaire
+  12: Enemy_Fatui_Pyro_Agent
+  13: Enemy_Fatui_Pyroslinger_Bracer
+  14: Enemy_Hydro_Abyss_Mage
+  15: Enemy_Mirror_Maiden
+  16: Enemy_Mitachurl
+  17: Enemy_Pyro_Abyss_Mage
+  18: Enemy_Rifthound
+  19: Enemy_Ruin_Drake
+  20: Enemy_Ruin_Grader
+  21: Enemy_Ruin_Guard
+  22: Enemy_Ruin_Hunter
+  23: Enemy_Lawachurl
+
