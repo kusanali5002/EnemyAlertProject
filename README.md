@@ -7,8 +7,8 @@
 - **🏫 Trường:** VNU-HUS (Đại học Quốc gia Hà Nội - Trường Đại học Khoa học Tự nhiên)
 - **📝 Tiêu đề:** Nhận diện và cảnh báo kẻ địch mạnh trong Genshin Impact
 - **📅 Ngày nộp:** 06/12/2025
-- **📄 Báo cáo PDF:** https://github.com/HaianCao/FoodChatbot/blob/main/LaTeX%20Template/main-vi.pdf
-- **🖥️ Slide thuyết trình:** https://github.com/HaianCao/FoodChatbot/blob/main/slide.pptx
+- **📄 Báo cáo PDF:** https://github.com/kusanali5002/EnemyAlertProject/blob/main/Genshin%20Alert%20Project%20Report.pdf
+- **🖥️ Slide thuyết trình:** Not available
 - **📂 Kho lưu trữ:** https://github.com/kusanali5002/EnemyAlertProject
 
 **👥 Thành viên nhóm:**
