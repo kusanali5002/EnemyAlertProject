@@ -8,7 +8,7 @@
 - **📝 Tiêu đề:** Nhận diện và cảnh báo kẻ địch mạnh trong Genshin Impact
 - **📅 Ngày nộp:** 06/12/2025
 - **📄 Báo cáo PDF:** https://github.com/kusanali5002/EnemyAlertProject/blob/main/Genshin%20Alert%20Project%20Report.pdf
-- **🖥️ Slide thuyết trình:** Not available
+- **🖥️ Slide thuyết trình:** https://www.canva.com/design/DAG7FzZIx8E/atKrKwlGMzIw9Za53tRt_w/edit?utm_content=DAG7FzZIx8E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 - **📂 Kho lưu trữ:** https://github.com/kusanali5002/EnemyAlertProject
 
 **👥 Thành viên nhóm:**
